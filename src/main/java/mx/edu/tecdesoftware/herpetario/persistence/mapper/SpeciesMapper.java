@@ -1,7 +1,7 @@
-package mx.edu.tecdesoftware.market_backend_2026_3_a.persistence.mapper;
+package mx.edu.tecdesoftware.herpetario.persistence.mapper;
 
-import mx.edu.tecdesoftware.market_backend_2026_3_a.domain.Species;
-import mx.edu.tecdesoftware.market_backend_2026_3_a.persistence.entity.Especie;
+import mx.edu.tecdesoftware.herpetario.domain.Species;
+import mx.edu.tecdesoftware.herpetario.persistence.entity.Especie;
 import org.mapstruct.InheritInverseConfiguration;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;

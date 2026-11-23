@@ -1,10 +1,10 @@
-package mx.edu.tecdesoftware.market_backend_2026_3_a;
+package mx.edu.tecdesoftware.herpetario;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MarketBackend20263AApplicationTests {
+class HerpetarioApplicationTests {
 
 	@Test
 	void contextLoads() {

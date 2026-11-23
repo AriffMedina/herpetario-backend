@@ -1,4 +1,4 @@
-package mx.edu.tecdesoftware.market_backend_2026_3_a.web.config;
+package mx.edu.tecdesoftware.herpetario.web.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

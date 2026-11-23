@@ -1,9 +1,9 @@
-package mx.edu.tecdesoftware.market_backend_2026_3_a.persistence;
+package mx.edu.tecdesoftware.herpetario.persistence;
 
-import mx.edu.tecdesoftware.market_backend_2026_3_a.domain.Species;
-import mx.edu.tecdesoftware.market_backend_2026_3_a.domain.repository.SpeciesRepository;
-import mx.edu.tecdesoftware.market_backend_2026_3_a.persistence.crud.EspecieCrudRepository;
-import mx.edu.tecdesoftware.market_backend_2026_3_a.persistence.mapper.SpeciesMapper;
+import mx.edu.tecdesoftware.herpetario.domain.Species;
+import mx.edu.tecdesoftware.herpetario.domain.repository.SpeciesRepository;
+import mx.edu.tecdesoftware.herpetario.persistence.crud.EspecieCrudRepository;
+import mx.edu.tecdesoftware.herpetario.persistence.mapper.SpeciesMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 

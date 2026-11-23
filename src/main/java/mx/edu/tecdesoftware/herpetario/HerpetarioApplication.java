@@ -1,13 +1,13 @@
-package mx.edu.tecdesoftware.market_backend_2026_3_a;
+package mx.edu.tecdesoftware.herpetario;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MarketBackend20263AApplication {
+public class HerpetarioApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MarketBackend20263AApplication.class, args);
+		SpringApplication.run(HerpetarioApplication.class, args);
 	}
 
 }

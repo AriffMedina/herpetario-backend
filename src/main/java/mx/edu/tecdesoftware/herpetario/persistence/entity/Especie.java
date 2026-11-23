@@ -1,4 +1,4 @@
-package mx.edu.tecdesoftware.market_backend_2026_3_a.persistence.entity;
+package mx.edu.tecdesoftware.herpetario.persistence.entity;
 
 import jakarta.persistence.*;
 

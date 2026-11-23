@@ -1,4 +1,4 @@
-package mx.edu.tecdesoftware.market_backend_2026_3_a.domain;
+package mx.edu.tecdesoftware.herpetario.domain;
 
 import java.time.LocalDate;
 

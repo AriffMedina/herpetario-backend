@@ -1,6 +1,6 @@
-package mx.edu.tecdesoftware.market_backend_2026_3_a.domain.repository;
+package mx.edu.tecdesoftware.herpetario.domain.repository;
 
-import mx.edu.tecdesoftware.market_backend_2026_3_a.domain.Reptile;
+import mx.edu.tecdesoftware.herpetario.domain.Reptile;
 
 import java.util.List;
 import java.util.Optional;

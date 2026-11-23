@@ -1,7 +1,7 @@
-package mx.edu.tecdesoftware.market_backend_2026_3_a.domain.service;
+package mx.edu.tecdesoftware.herpetario.domain.service;
 
-import mx.edu.tecdesoftware.market_backend_2026_3_a.domain.Reptile;
-import mx.edu.tecdesoftware.market_backend_2026_3_a.domain.repository.ReptileRepository;
+import mx.edu.tecdesoftware.herpetario.domain.Reptile;
+import mx.edu.tecdesoftware.herpetario.domain.repository.ReptileRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

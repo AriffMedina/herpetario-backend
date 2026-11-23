@@ -1,10 +1,10 @@
-package mx.edu.tecdesoftware.market_backend_2026_3_a.web.controller;
+package mx.edu.tecdesoftware.herpetario.web.controller;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.tags.Tag;
-import mx.edu.tecdesoftware.market_backend_2026_3_a.domain.Species;
-import mx.edu.tecdesoftware.market_backend_2026_3_a.domain.service.SpeciesService;
+import mx.edu.tecdesoftware.herpetario.domain.Species;
+import mx.edu.tecdesoftware.herpetario.domain.service.SpeciesService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
