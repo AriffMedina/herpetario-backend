@@ -68,3 +68,6 @@ Desktop.ini
 *.tmp
 # Local AI runtime state
 .atl/
+
+# Local DB credentials (copy application-dev.properties.example)
+src/main/resources/application-dev.properties

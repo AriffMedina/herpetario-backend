@@ -1,0 +1,5 @@
+server.port=8090
+
+spring.datasource.username=YOUR_DB_USER
+spring.datasource.password=YOUR_DB_PASSWORD
+spring.datasource.url=jdbc:postgresql://localhost:5432/YOUR_DB_NAME
